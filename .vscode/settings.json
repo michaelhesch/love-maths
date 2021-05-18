@@ -22,4 +22,5 @@
    "files.autoSave": "off",
    "workbench.colorTheme": "Visual Studio Dark",
    "editor.defaultFormatter": "HookyQR.beautify",
+   "python.pythonPath": "C:\\Users\\mihes\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
 }
